@@ -4,7 +4,7 @@
 
 Terminal-based AI support triage agent built for the HackerRank Orchestrate challenge.
 
-Original challenge link: [HackerRank Support Agent Problem Statement](https://www.hackerrank.com/contests/hackerrank-orchestrate-may26/challenges/support-agent)
+Original challenge link: [HackerRank Support Agent Problem Statement](https://github.com/HarishBalajiR/Multi-Domain-Support-Triage-Challenge/blob/main/problem_statement.md)
 
 ## Project Overview
 
