@@ -41,7 +41,7 @@ The agent pipeline:
 ### 1) Clone the repository
 
 ```powershell
-git clone <https://github.com/HarishBalajiR/Multi-Domain-Support-Triage-Challenge.git>
+git clone https://github.com/HarishBalajiR/Multi-Domain-Support-Triage-Challenge.git
 cd "Multi-Domain-Support-Triage-Challenge"
 ```
 
