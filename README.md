@@ -16,7 +16,7 @@ This project processes support tickets across three ecosystems:
 
 The agent pipeline:
 
-1. Classifies domain and request type
+1. Classifies the domain and request type
 2. Applies safety/escalation rules
 3. Retrieves relevant local support docs (RAG)
 4. Generates grounded responses with Ollama
@@ -42,10 +42,10 @@ The agent pipeline:
 
 ```powershell
 git clone <YOUR_GITHUB_REPO_URL>
-cd "HackerRank Orchestrate"
+cd "Multi-Domain-Support-Triage-Challenge"
 ```
 
-### 2) Create and activate virtual environment
+### 2) Create and activate a virtual environment
 
 ```powershell
 cd code
@@ -65,7 +65,7 @@ pip install -r requirements.txt
 ollama pull llama3.2:3b
 ```
 
-### 5) Build retrieval index from local corpus
+### 5) Build a retrieval index from the local corpus
 
 ```powershell
 python main.py ingest
